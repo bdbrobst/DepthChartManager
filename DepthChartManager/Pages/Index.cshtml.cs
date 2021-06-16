@@ -5,6 +5,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CFBSharp.Api;
+using CFBSharp.Client;
+using CFBSharp.Model;
 
 namespace DepthChartManager.Pages
 {
